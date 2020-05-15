@@ -1,0 +1,6 @@
+@author: César Augusto
+@description: Algoritmo simples para calcular a média de notas da uninove
+@status: Alpha
+@version 0.2
+
+Para testar basta abrir o arquivo index de cada uma das pastas no navegador e seguir as instruções :)
