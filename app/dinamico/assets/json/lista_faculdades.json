@@ -1,0 +1,550 @@
+﻿{
+    "lista_faculdades": [
+        {
+            "Nome": " Centro Universitário Adventista de São Paulo ",
+            "Sigla": "UNASP"
+        },
+        {
+            "Nome": " Centro Universitário Assunção ",
+            "Sigla": "UNIFAI"
+        },
+        {
+            "Nome": " Centro Universitário Belas Artes de São Paulo ",
+            "Sigla": "FEBASP"
+        },
+        {
+            "Nome": " Centro Universitário Capital ",
+            "Sigla": "UNICAPITAL"
+        },
+        {
+            "Nome": " Centro Universitário das Faculdades Metropolitanas Unidas ",
+            "Sigla": "FMU"
+        },
+        {
+            "Nome": " Centro Universitário de Araraquara ",
+            "Sigla": "UNIARA"
+        },
+        {
+            "Nome": " Centro Universitário FECAP",
+            "Sigla": "FECAP"
+        },
+        {
+            "Nome": " Centro Universitário FIAMFAAM",
+            "Sigla": " FIAMFAAM"
+        },
+        {
+            "Nome": " Centro Universitário Ítalo - Brasileiro ",
+            "Sigla": "UNÍTALO"
+        },
+        {
+            "Nome": " Centro Universitário Paulistano ",
+            "Sigla": "UNIPAULISTA"
+        },
+        {
+            "Nome": " Centro Universitário Salesiano de São Paulo ",
+            "Sigla": "UNISAL"
+        },
+        {
+            "Nome": " Centro Universitário São Camilo",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": " Conservatório Dramático Musical São Paulo ",
+            "Sigla": "CDMSP"
+        },
+        {
+            "Nome": " Escola da Cidade",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": " Escola Dominicana de Teología ",
+            "Sigla": "EDT"
+        },
+        {
+            "Nome": " Escola Paulista de Direito ",
+            "Sigla": "EPDEC"
+        },
+        {
+            "Nome": " Escola Superior de Adminitração ",
+            "Sigla": "HSM"
+        },
+        {
+            "Nome": " Escola Superior de Artes Célia Helena",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": " Escola Superior de Engenharía e Gestão de São Paulo ",
+            "Sigla": "ESEG"
+        },
+        {
+            "Nome": " Escola Superior de Propaganda e Marketing ",
+            "Sigla": "ESPM"
+        },
+        {
+            "Nome": " Escola Superior Nacional de Seguros ",
+            "Sigla": "ESNS"
+        },
+        {
+            "Nome": " Fac. de Tec. em Hoteleria Gastro. e Turismo de São Paulo ",
+            "Sigla": "HOTEC"
+        },
+        {
+            "Nome": " Faculdade Albert Einstein de São Paulo ",
+            "Sigla": "FAESP"
+        },
+        {
+            "Nome": " Faculdade Anglo Latino ",
+            "Sigla": "FAL"
+        },
+        {
+            "Nome": " Faculdade Associada Brasil ",
+            "Sigla": "FAB"
+        },
+        {
+            "Nome": " Faculdade Autónoma de Direito ",
+            "Sigla": "FADISP"
+        },
+        {
+            "Nome": " Faculdade Cásper Líbero ",
+            "Sigla": "FCL"
+        },
+        {
+            "Nome": " Faculdade CBES",
+            "Sigla": "CBES"
+        },
+        {
+            "Nome": " Faculdade Cruz Azul ",
+            "Sigla": "FACRAZ"
+        },
+        {
+            "Nome": " Faculdade das Américas ",
+            "Sigla": "FAM",
+            "undefined": " "
+        },
+        {
+            "Nome": " Faculdade de Administração e Ciências Contábeis Luzwell",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": " Faculdade de Administração São Paulo ",
+            "Sigla": "FAPI"
+        },
+        {
+            "Nome": " Faculdade de Ciências da Saúde de São Paulo ",
+            "Sigla": "FCIS"
+        },
+        {
+            "Nome": " Faculdade de Ciências Médicas da Santa Casa São Paulo ",
+            "Sigla": "FCMSCSP"
+        },
+        {
+            "Nome": " Faculdade de Direito Prof. Damásio de Jesus ",
+            "Sigla": "FDDJ"
+        },
+        {
+            "Nome": " Faculdade de Educação Costa Braga ",
+            "Sigla": "FCB"
+        },
+        {
+            "Nome": " Faculdade de Educação e Ciências Gerenciais de São Paulo ",
+            "Sigla": "FECG"
+        },
+        {
+            "Nome": " Faculdade de Educação e Cultura Montessori ",
+            "Sigla": "FAMEC"
+        },
+        {
+            "Nome": " Faculdade de Enfermagem do Hospital Israelita A. Einstein ",
+            "Sigla": "FEHIAE"
+        },
+        {
+            "Nome": " Faculdade de Engenharia de São Paulo ",
+            "Sigla": "FESP"
+        },
+        {
+            "Nome": " Faculdade de Informática e Administração Paulista ",
+            "Sigla": "FIAP"
+        },
+        {
+            "Nome": " Faculdade de Música Carlos Gomez ",
+            "Sigla": "FMCG"
+        },
+        {
+            "Nome": " Faculdade de Música Souza Lima ",
+            "Sigla": "FMSL"
+        },
+        {
+            "Nome": " Faculdade de São Bento ",
+            "Sigla": "FSB"
+        },
+        {
+            "Nome": " Faculdade de Tecnologia Álvares de Azevedo ",
+            "Sigla": "FAATESP"
+        },
+        {
+            "Nome": " Faculdade de Tecnologia Bandeirantes ",
+            "Sigla": "BANDTEC"
+        },
+        {
+            "Nome": " Faculdade de Tecnologia Diamante ",
+            "Sigla": "FATED"
+        },
+        {
+            "Nome": " Faculdade de Tecnologia FINACI",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": " Faculdade de Tecnologia IBTA",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": " Faculdade de Tecnologia Interamérica ",
+            "Sigla": "FTI"
+        },
+        {
+            "Nome": " Faculdade de Teo. da Igreja Presbiteriana Independiente ",
+            "Sigla": "FATIPI"
+        },
+        {
+            "Nome": " Faculdade de Teologia Umbandista ",
+            "Sigla": "FTU"
+        },
+        {
+            "Nome": " Faculdade do Povo ",
+            "Sigla": "FAP"
+        },
+        {
+            "Nome": " Faculdade Evangélica de São Paulo ",
+            "Sigla": "FAESP"
+        },
+        {
+            "Nome": " Faculdade FIPECAFI",
+            "Sigla": "FIPECAFI"
+        },
+        {
+            "Nome": " Faculdade Flamingo",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": " Faculdade Guaianás ",
+            "Sigla": "FAG"
+        },
+        {
+            "Nome": " Faculdade Impacta de Tecnologia ",
+            "Sigla": "FIT"
+        },
+        {
+            "Nome": " Faculdade Independente Butantã ",
+            "Sigla": "FIB"
+        },
+        {
+            "Nome": " Faculdade Integral Cantareira ",
+            "Sigla": "FIC"
+        },
+        {
+            "Nome": " Faculdade Interlagos de Educação e Cultura ",
+            "Sigla": "FINTEC"
+        },
+        {
+            "Nome": " Faculdade Legale ",
+            "Sigla": "FALEG"
+        },
+        {
+            "Nome": " Fundação Dom Cabral ",
+            "Sigla": "FDC"
+        },
+        {
+            "Nome": " Instituto Federal de São Paulo ",
+            "Sigla": "IFSP"
+        },
+        {
+            "Nome": " Universidade do ABC ",
+            "Sigla": "UFABC"
+        },
+        {
+            "Nome": " Universidade Federal de São Paulo ",
+            "Sigla": "UNIFESP"
+        },
+        {
+            "Nome": " Universidade Paulista Júlio de Mesquita Filho ",
+            "Sigla": "UNESP"
+        },
+        {
+            "Nome": "Escola Superior Aberta do Brasil ",
+            "Sigla": "ESAB"
+        },
+        {
+            "Nome": "Faculdade Mario de Andrade ",
+            "Sigla": "FMA"
+        },
+        {
+            "Nome": "Faculdade Meassiânica",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": "Faculdade Método de São Paulo ",
+            "Sigla": "FAMESP"
+        },
+        {
+            "Nome": "Faculdade Módulo",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": "Faculdade Morumbi Sul ",
+            "Sigla": "FMS"
+        },
+        {
+            "Nome": "Faculdade Mozarteum de São Paulo ",
+            "Sigla": "FAMOSP"
+        },
+        {
+            "Nome": "Faculdade Mundial",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": "Faculdade Paulista Ciências Aplicadas ",
+            "Sigla": "FPCA"
+        },
+        {
+            "Nome": "Faculdade Paulista de Artes ",
+            "Sigla": "FPA"
+        },
+        {
+            "Nome": "Faculdade Paulista de Pesquisa e Ensino Superior ",
+            "Sigla": "FAPPES"
+        },
+        {
+            "Nome": "Faculdade Paulista de Serviço Social ",
+            "Sigla": "FAPSS"
+        },
+        {
+            "Nome": "Faculdade Paulus de Tecnologia e Comunicação ",
+            "Sigla": "FAPCOM"
+        },
+        {
+            "Nome": "Faculdade Práxis ",
+            "Sigla": "FIPEP"
+        },
+        {
+            "Nome": "Faculdade Reuninda ",
+            "Sigla": "FAR"
+        },
+        {
+            "Nome": "Faculdade Santa Marcelina ",
+            "Sigla": "FASM"
+        },
+        {
+            "Nome": "Faculdade Santa Rita ",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": "Faculdade São Paulo ",
+            "Sigla": "FACSP"
+        },
+        {
+            "Nome": "Faculdade Sequencial",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": "Faculdade Sumaré",
+            "Sigla": "SUMARE"
+        },
+        {
+            "Nome": "Faculdade Tancredo Neves ",
+            "Sigla": "FTN"
+        },
+        {
+            "Nome": "Faculdade Teológica Batista de São Paulo ",
+            "Sigla": "FTBSP"
+        },
+        {
+            "Nome": "Faculdade Teológica de Ciências Humanas e Sociais Logos ",
+            "Sigla": "FAETEL"
+        },
+        {
+            "Nome": "Faculdade União ",
+            "Sigla": "FTBSP"
+        },
+        {
+            "Nome": "Faculdade União Bandeirante ",
+            "Sigla": "UNIBAN"
+        },
+        {
+            "Nome": "Faculdade Zumbi dos Palmares ",
+            "Sigla": "FAZP"
+        },
+        {
+            "Nome": "Faculdades Associadas de São Paulo ",
+            "Sigla": "FASP"
+        },
+        {
+            "Nome": "Faculdades Integradas Campos Salles ",
+            "Sigla": "FICS"
+        },
+        {
+            "Nome": "Faculdades Integradas de São Paulo ",
+            "Sigla": "FISP"
+        },
+        {
+            "Nome": "Faculdades Integradas Paulista ",
+            "Sigla": "FIP"
+        },
+        {
+            "Nome": "Faculdades Integradas Rio Branco ",
+            "Sigla": "FRB"
+        },
+        {
+            "Nome": "Faculdades Integradas Tibiriçá ",
+            "Sigla": "FATI"
+        },
+        {
+            "Nome": "Faculdades Oswaldo Cruz ",
+            "Sigla": "FOC"
+        },
+        {
+            "Nome": "Fundação Armando Alvares Penteado ",
+            "Sigla": "FAAP",
+            "undefined": "  "
+        },
+        {
+            "Nome": "Fundação Escola de Sociología e Política de São Paulo ",
+            "Sigla": "FESPSP"
+        },
+        {
+            "Nome": "Fundação Getulio Vargas ",
+            "Sigla": "FGV"
+        },
+        {
+            "Nome": "Fundação Instituto de Administração ",
+            "Sigla": "FIA"
+        },
+        {
+            "Nome": "Insituto de Ensino e Pesquisa ",
+            "Sigla": "INSPER"
+        },
+        {
+            "Nome": "Instituto Bandeirante de Educação e Cultura ",
+            "Sigla": "IBEC"
+        },
+        {
+            "Nome": "Instituto Butantan",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": "Instituto de Pós-Graduação & Graduação ",
+            "Sigla": "IPOG"
+        },
+        {
+            "Nome": "Instituto Europeo de Desing ",
+            "Sigla": "IED"
+        },
+        {
+            "Nome": "Instituto Nacional de Pós-Graduação ",
+            "Sigla": "INPG"
+        },
+        {
+            "Nome": "Instituto São Paulo de Enstudos Superiores ",
+            "Sigla": "ITESP"
+        },
+        {
+            "Nome": "Instituto Superior de Educação Alborada Plus ",
+            "Sigla": "ISEAP"
+        },
+        {
+            "Nome": "Instituto Superior de Educação de São Paulo ",
+            "Sigla": "SINGULARIDADES-ISESP"
+        },
+        {
+            "Nome": "Instituto Superior de Educação Vera Cruz ",
+            "Sigla": "ISEVC"
+        },
+        {
+            "Nome": "Panamericana Escola de Arte e Design",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": "Pontifícia Universidade Católica de São Paulo ",
+            "Sigla": "PUCSP"
+        },
+        {
+            "Nome": "SENAI - Servico Nacional de Aprendizagem Industrial",
+            "Sigla": "SENAI"
+        },
+        {
+            "Nome": "Trevisan Escola de Negocios",
+            "Sigla": "TREVISAN"
+        },
+        {
+            "Nome": "Universidade Anhembi Morumbi",
+            "Sigla": "ANHEMBI"
+        },
+        {
+            "Nome": "Universidade Bandeirantes de São Paulo ",
+            "Sigla": "UNIBAN"
+        },
+        {
+            "Nome": "Universidade Braz Cubas ",
+            "Sigla": "UBC"
+        },
+        {
+            "Nome": "Universidade Camilo Castelo Branco ",
+            "Sigla": "UNICASTELO"
+        },
+        {
+            "Nome": "Universidade Cidade de São Paulo ",
+            "Sigla": "UNICID"
+        },
+        {
+            "Nome": "Universidade Cruzeiro do Sul",
+            "Sigla": "Não Possui"
+        },
+        {
+            "Nome": "Universidade de Guarulhos ",
+            "Sigla": "UNG"
+        },
+        {
+            "Nome": "Universidade de Santo Amaro ",
+            "Sigla": "UNISA"
+        },
+        {
+            "Nome": "Universidade de São Paulo ",
+            "Sigla": "USP"
+        },
+        {
+            "Nome": "Universidade do Oeste Paulista ",
+            "Sigla": "UNOESTE"
+        },
+        {
+            "Nome": "Universidade Ibirapuera ",
+            "Sigla": "UNIB"
+        },
+        {
+            "Nome": "Universidade Mackenzie",
+            "Sigla": "MACKENZIE"
+        },
+        {
+            "Nome": "Universidade Metodista de São Paulo",
+            "Sigla": "METODISTA"
+        },
+        {
+            "Nome": "Universidade Nove de Julho ",
+            "Sigla": "UNINOVE"
+        },
+        {
+            "Nome": "Universidade Paulista ",
+            "Sigla": "UNIP"
+        },
+        {
+            "Nome": "Universidade São Francisco ",
+            "Sigla": "USF"
+        },
+        {
+            "Nome": "Universidade São Judas Tadeu ",
+            "Sigla": "USJT"
+        },
+        {
+            "Nome": "Universidade São Marcos",
+            "Sigla": "Não Possui"
+        }
+    ]
+}
